@@ -3,8 +3,9 @@ service_description:
   name: log-provider
   version: 0.0.1
 servicecomb:
-    registry:
-      address: https://cse.cn-north-4.myhuaweicloud.com
+  service:
+    environment: development
+  registry:
+    address: https://cse.cn-north-4.myhuaweicloud.com
   rest:
     address: 0.0.0.0:8080
- 
