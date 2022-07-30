@@ -6,11 +6,7 @@
     <modules>
         <module>test-provider</module>
     </modules>
-    <parent>
-        <groupId>com.leadingsoft</groupId>
-        <artifactId>microservices-parent</artifactId>
-        <version>1.0.0</version>
-    </parent>
+
     <groupId>com.example</groupId>
     <artifactId>huawei-demo1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
